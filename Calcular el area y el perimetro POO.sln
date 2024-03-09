@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular el area y el perimetro POO", "Calcular el area y el perimetro POO.csproj", "{5D763821-8F16-4D1F-80AE-5CC270893B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D763821-8F16-4D1F-80AE-5CC270893B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D763821-8F16-4D1F-80AE-5CC270893B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D763821-8F16-4D1F-80AE-5CC270893B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D763821-8F16-4D1F-80AE-5CC270893B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FF3CA4-E40B-4297-9941-FE5000D96414}
+	EndGlobalSection
+EndGlobal
